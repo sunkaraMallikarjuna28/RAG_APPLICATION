@@ -1,0 +1,14 @@
+python-dotenv
+langchain
+langchain-community
+langchain-experimental
+langchain-google-genai
+google-generativeai
+pymongo[srv]
+pypdf
+python-docx
+sentence-transformers
+numpy
+scikit-learn
+PyPDF2
+langchainhub
